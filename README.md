@@ -1,2 +1,7 @@
 # Threat-Modelling-
-Threat Modelling (STRIDE)
+#Threat Modelling (STRIDE)
+# DFD
+# Identify
+# Mitigate
+# Validation
+
